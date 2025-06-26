@@ -331,4 +331,12 @@ def correlated_impacts():
 
 *Documentación generada para análisis Monte Carlo v1.0*
 *Última actualización: 26 de junio de 2025*
-*Contacto técnico: Equipo Data for Good (Ferrer) - Gloria Aguilar, Beñat Galdós (bgaldos@galde.app)*
+*Tutor: Carlos Caballero*
+*Equipo de trabajo: Data for Good (Caso Ferrer):*
+- Gloria Aguilar (Ferrer)
+- Beñat Galdós (Galde)
+- Eliana Corredor (Berocam)
+- Sergio Padilla (Banco de España)
+- Alejandro Fernández (CODIP)
+- Chilo del Campo (Devoteam)
+*Contacto técnico: Beñat Galdós (bgaldos@galde.app)*
