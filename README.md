@@ -330,5 +330,5 @@ def correlated_impacts():
 ---
 
 *Documentación generada para análisis Monte Carlo v1.0*
-*Última actualización: [Fecha actual]*
-*Contacto técnico: [Equipo de Data Governance]*
+*Última actualización: 26 de junio de 2025*
+*Contacto técnico: Equipo Data for Good (Ferrer) - Gloria Aguilar, Beñat Galdós (bgaldos@galde.app)*
